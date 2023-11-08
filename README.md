@@ -3,13 +3,6 @@
 This repository contains various files and supporting information and material related to the article 
 _"Identifying Signature Features of Epidemic Diseases from 19th Century All-cause Mortality Data"_.
 
-Authors:
-* Rasmus Kristoffer Pedersen
-* Mathias Mølbak Ingholt
-* Maarten van Wijhe
-* Viggo Andreasen
-* Lone Simonsen
-
 PandemiX Center of Excellence 
 
 
