@@ -15,4 +15,4 @@ Some of these supplementary files are also available in this repository, in part
 * "SupplementaryTable_AllCrises.xlsx"
 * "SupplementaryTable_RelationTable_ParishCounty.csv"
 
-Raw data and the results of analysis is available as a zip directory on the journal website, and in this repository as seperate files, in subdirectory "SupplementaryData_DataAndAnalysis"
+Aggregated data and the results of analysis is available in the subdirectory "Data", with the code to carry out the analysis available in subdirectory "Code"

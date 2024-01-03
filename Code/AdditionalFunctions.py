@@ -6,6 +6,7 @@ import os
 
 # --- Specify paths ---
 pathData = '../Data/MortalityCollections/'
+# pathData = 'C:/Users/rakrpe/OneDrive - Roskilde Universitet/Pandemix/AncestryKode/Data/Collections/AmtCollections2023_burial/'
 dfRel = pd.read_csv('../SupplementaryTable_RelationalTable_ParishCounty.csv')
 # SupplementaryTable_RelationalTable_ParishCounty.csv
 # ------
