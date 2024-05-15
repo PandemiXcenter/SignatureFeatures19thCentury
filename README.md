@@ -1,9 +1,11 @@
-# Supplementary material for _"Identifying Signature Features of Epidemic Diseases from 19th Century All-cause Mortality Data"_
+# Online supplementary material for _"Identifying Signature Features of Epidemic Diseases from 19th Century All-cause Mortality Data"_
 
 This repository contains various files and supporting information and material related to the article 
 _"Identifying Signature Features of Epidemic Diseases from 19th Century All-cause Mortality Data"_.
 
-PandemiX Center of Excellence 
+Article currently accepted for publication, to appear soon.
+
+PandemiX Center of Excellence, Roskilde University, Denmark
 
 
 ## Files description
